@@ -34,7 +34,3 @@ website_configs = {
         'cookies': {},
         'response_base': 'text', #text for text based, status for html status code based.
         'status_code': '202',
-        'success': 'registered',
-        'failure': ['0', '1', 'true']
-    },
-}
